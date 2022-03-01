@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief seasonable warning with some tymous remedies to ptevent [sic] the putrefing maladies of pur [sic] oresent [sic] distemper amongst all ranks of professors in Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600-1699?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01783</idno>
+            <idno type="STC">Wing B4647A</idno>
+            <idno type="STC">ESTC R176329</idno>
+            <idno type="EEBO-CITATION">52211710</idno>
+            <idno type="OCLC">ocm 52211710</idno>
+            <idno type="VID">175441</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01783)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175441)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2737:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief seasonable warning with some tymous remedies to ptevent [sic] the putrefing maladies of pur [sic] oresent [sic] distemper amongst all ranks of professors in Scotland.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Scotland :</pubPlace>
+                  <date>16--?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Suggested publication data from Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Covenanters --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175441:1" rendition="simple:additions"/>
+            <head>A BRIEF Seaſonable warning with ſome ty<g ref="char:EOLhyphen"/>mous remedies to ptevent the putrefing maladies of pur oreſent diſtemper amongſt all ranks of profeſſors in <hi>Scotland.</hi>
+            </head>
+            <list>
+               <item>I. <seg rend="decorInit">I</seg>F ground be givene hereby, to diſ<g ref="char:EOLhyphen"/>ſolve all Church communion, the dreadfulleſt effects ſhall be ſeene that ever was hard in a Church, yea reduce it to that period, not as to have the face of a judicatorie which is too patent in neighbouring chur<g ref="char:EOLhyphen"/>ches yea alas, increaſe heart burn<g ref="char:EOLhyphen"/>ings animoſities and ſo mutually prove one anothers burriors, ſo that the adverſaries game ſhall be wrought to his hand and Satan ſhall gain his deſigne to breaking up and extirpating all Chriſtian fellowſhip, the ſad ex<g ref="char:EOLhyphen"/>perience whereof is found in our Land yea iſt not well knowne to the greateſt matter of grief and Preſſage of future ſtrokes that ever, we were tryſted with ſo that thoſe meetings who continued Inſtant ſervant in prayer wreſtlings with the Lord hath now given it over ſome of them proven not only backſliders from ſome denties moſt to be performed, but alſo all kind of Chriſtian ſympathie deutie void of a excitating conſcience to any ſuch thing, ſome making the rule regulating even there
+<pb n="2" facs="tcp:175441:2"/>own judgement yea worſe it not known of theſe that they did live more Atheiſtically then Chriſtianly yea hath not our Diſſentions beene a woful mean to break up a conjugaltie raiſing fearful diviſions betwixt man &amp; wiſe, which in no church entertaining familie and ſociety but doth produce ſtrange fruits, ſeparatiſme but bleſſed be the Lord thoſe forementioned have gotten ſuch a bleſſed fruit of this trial ſo as that Afflictione did run graces errands to them, and now (aſter they had de<g ref="char:EOLhyphen"/>ſiſtned moſt brutal like from any ſuch deutie) they have lively recovered but not till the Lord in a great manner humbled them yea temporal ſtrokes.</item>
+               <item>II. As to the hearing of many of thoſe Godly men, (we abſtract from juſtifying any Kinds of Profeſſions) If it ſhall be conceded that they are not to be heard we ſhall not know well where to land the ſeall of ſome of whoſe Miniſtry doth rend the conſcience of any man to hear the like, and this not in the leaſt (the Lord is the heart ſearcher, to comply with any defectione alleadged or favourities thereto) but to be as a Caveat to people to keep them from ſplitting upon dangerous rocks, nei<g ref="char:EOLhyphen"/>ther can we think the Conſ. of any godly tender faithful ſoul could aſſent thereto a who deſignes peace with truth and do we not alſo know the woful fruits of this alſo how many have been rendered ſceptick watering unſtable in the way of God and ſo toſtied with are noth<g ref="char:EOLhyphen"/>in ear, that they know not well where they ſhould reſt, ſo that the ſenſible grouth of grace was utterly decayed as to the exerciſe thereof all the time.</item>
+               <item>III. 3. We could heartily wiſh that the way of God were walked in for reclaming of any Brethren, ſo as to make them ſenſible of lapeſſs and to remove that which might be a ſcandal to others of this by mutual ſubmiſſion of all
+<pb n="3" facs="tcp:175441:2"/>to the juſtitutions of Diſcipline in the church which did not a little conduce to the Bohemans in there fiery de<g ref="char:EOLhyphen"/>bats the very repreſentable or appearance of a Govern<g ref="char:EOLhyphen"/>men ſo that private Chriſtians alſo of other might be brought to accompt who are ſiniſtrouſly Informitive o<g ref="char:EOLhyphen"/>thers yea dropping in truths to ears of worthie men to Authorize there fables to conceaſe credit honout re<g ref="char:EOLhyphen"/>pute to them which hath been known to have been the way of to many and thereupon have prevaild with them to publiſh it abroad what miſrepreſentations pretended reflections of this nature have paſt.</item>
+               <item>IV. All this does really argue Little or nothing of a hum<g ref="char:EOLhyphen"/>bled Spirit ripinning for a delivery but rather for judg<g ref="char:EOLhyphen"/>ment.</item>
+               <item>V. Nor can no have peace nor ought any to have peace or think it ſhame in the leaſt to acknowled a our debording, from the Lord, tho uncharitably it may ſo be thought by ſome) be they Miniſters be thy people neither ſole ack<g ref="char:EOLhyphen"/>nowledgment bur further degrees of repentance and this to do in Chriſts way with the Spirit of meekneſſe with out the Leaſt reſpect to any thing diſpleaſing to God or bran<g ref="char:EOLhyphen"/>kling the peace of a good conſcience.</item>
+               <item>6. As we are to pray ſo likewiſe to ſtudie and Endeavout to promote a Love union <hi>Joh.</hi> 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. prayd for by Chiſt himſelf and ſhall, be accompliſhed the efficatie of Chriſts prayer making it ſo lett all oppoſe as they pleaſe and then and ne<g ref="char:EOLhyphen"/>ver till then shall the day of Jezreel be great but when Ju<g ref="char:EOLhyphen"/>dah and Iſrael haſt appointed themſelves oue head, O ſad matter that union should ſound ſo harshily and digeſt ſo bitterly with ſome who, are all profeſſing to keep whole the gurments of Chriſt.</item>
+               <item>VII. We shall not ſtand to rehearſe he Invaſions Intruſions
+<pb n="4" facs="tcp:175441:3"/>corruptions &amp; fearful Infections the Church hath ſuffered thereby.</item>
+               <item>VIII. But how are ſome brought of the ſoul of religione and in ſearching of the vitals and Kernel do hunt rather after the shel ſo that thoſe who uſed formerly to have much ſoul exerciſe are emptie of the ſame as if they never had been triſted therewith yea poor things purſuing this are igno<g ref="char:EOLhyphen"/>rant of the very fundamentals of Religon it may be ſaid yet very zealous this we grant &amp; dedeſire to bleſſe the Lord therefore yet that ought to be temperate with Knowledge, neither upon the other extream to magni<g ref="char:EOLhyphen"/>it as to derogat from the other extishinguish and put out the ſame.</item>
+               <item>IX. Know that ſome eminently worthy Miniſters for piety and more particularly zeale, and yet continuing in the ſame, inveig<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t as much gainſt this and ſtood upon this controverted head before it ever was ſo ſifted, and can<g ref="char:EOLhyphen"/>not now have ſo much peace, in proſecuting the ſame, O but zeale is commendable being pure, the temper of the perſon, having up phyſical Influx therein, but its evident the Lord polities gradually even as young colts having mamy excrements and exorbitancies to be cut of, if ye are critick ye may obj. I beleeve it, but now the edge of zeal is loſt; O would to the Lord be thow who thow wilt that thow were endewed with the ſame meaſure.</item>
+               <item>X. Tender loving Symphatizing Chriſtians would try be<g ref="char:EOLhyphen"/>fore they cruſt, and the claſhings of ſome particular pri<g ref="char:EOLhyphen"/>vate Chriſtians alſo would be quaſſat whoſe privat Judg<g ref="char:EOLhyphen"/>ment of diſcretion, we gram it to be honoured, yet alſo we know vaine idle childiſh pamphlets by way of letters have gone ſo from ſome Chriſtians, whoſe faculties
+<pb n="5" facs="tcp:175441:3"/>we moſt ſay without breach of charity the Divel miſera<g ref="char:EOLhyphen"/>bly imployed.</item>
+               <item>XI. Does it quadrat to the directions of the General Aſſem<g ref="char:EOLhyphen"/>bly in all former times that Miniſters are not to ſpend there time in Pulpit inſiſting upon controverſies Irritaring he bating ſtupeſing the work of grace, O how palpably haſt it worne out our frame from the moſt part, it may be replyed when need calls its moſt convenient, yea when the great neceſſity was all our Divines determine that they were, but a little of ſpeak to that ſeeing as many excellent men ſayes out of one warre ſprings another, and ſo we ſhall fall into an endleſs labyrinth.</item>
+               <item>XII. If thoſe eminently Godly Miniſters be reflected upon who have continued ſuffering in the h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zard of there live theſe many years by paſt me knows not who are enduring hardſhip for, the name of Jeſus, we ſpeak not now con<g ref="char:EOLhyphen"/>cerning any Indul<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed men tho we charitably Judge Sym<g ref="char:EOLhyphen"/>pathie in the ſpirit not to be wantin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ea in ſome we are ſure for to our own hearing we can teſtify a wor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy man, who upon ſerious conſideration of this diaſmul day cryed out, O for a paſſe from Jeſus.</item>
+               <item>XIII. The Judgment of Luther to the Bohem. Churches is worthy of Imitatione herein, ſince there be ſo many con<g ref="char:EOLhyphen"/>tentions its no new thing in the Church of God notice that ſome ſhak not from the fundamentals.</item>
+               <item>XIV. Remember if thou art ſuffering for Presbytery, that it may be countenanced by thee, and ſo all debates ſhall be ſoon decided.</item>
+               <item>XV. If any hath broken up fellowſhip becauſe of this, the Lord ſhall double his ſtripes we mean Chriſtian ſociety,
+<pb n="6" facs="tcp:175441:4"/>and thoſe who give occaſion thereto directly or indirectly for many? do not now narrowly mark there, paſſions venting by indignatione upon ſome which cannot but hurt and irritat ſtrangers yea in prayer.</item>
+               <item>XVI. Wo be to them who takes offence at Chriſts Perſon hereby hsi word worship Government or shameful croſſe and Profeſſors have as much to reckon for who do not, notice there carriage therein for fear of giving offence.</item>
+               <item>XVII. Dear Friends love the image of Jeſus, we are ſure there are upon either hands many, whoſe heart if opened would be found, the impreſſion of each other, mutually.</item>
+               <item>XVIII. Parishes Societies again we alarme who do not join harmoniouſly to work, in entertaining the Goſpel amongſt them the Lord ſhall remove it beyond the ſeas from you, and ye ſhall be ſtigmatized of God a caſter up thy heel againſt the holy one.</item>
+               <item>XIX. Young Chriſtians would be ſober and walk with a low ſail, and all ranks as they reſpect the myſtical body of of Chriſt would ſhun irritating ſpeeches.</item>
+               <item>XX. O be Cautions of railing againſt any mans perſon Michael could not bring a railing accuſatione againſt the Divel for one being tainted with the leaſt tinctue there<g ref="char:EOLhyphen"/>of we ſhall be brought at length to be empty of a republ. ſpirit in any Kind of commerce.</item>
+               <item>XXI. Let us as Melanchton honour the Judgment of the pious worthy &amp; learned, yet no further then its own ſphereand ſtation, for were we never ſo dexterous in our Judgment we have ground to ſuſpect.</item>
+               <pb n="7" facs="tcp:175441:4"/>
+               <item> XXII. But we come cloſely home O ſoul wha tis the mind of God to the in this Affair Anſ. I find God againſt it, grant it be ſo, that courſe to regain, ſome is not the mind of God but obteſt the to diſtinguish the harbouring of tentations in the heart, which are not nothing but ſuggeſtions per<g ref="char:EOLhyphen"/>ſuaſions allurements of Satan from thoſe weel grounded impulſes of the Spirit of God, but ſuretheſe manifeſtations that thou art triſted with of God doth nevifer thouexa<g ref="char:EOLhyphen"/>mine right induce thee to any ſuch violent carriage which indeed breeds a great reluctancy in the heart of many god<g ref="char:EOLhyphen"/>ly to keep correſpondency.</item>
+               <item>XXIII. If men be other wayes minded God shall reveale it his is his promiſe ſtay upon the Lord do not haſte thy own nay rather roll all the burden on Chriſts shouldiers.</item>
+               <item>XXIV. If this had been debated among our Reformers as to the matter of hearing, we are perſwaded we should have been eſteemed in the categ one of leſuits, its true indeed, it may be Anſ the caſe is altered, and otherwiſe ſtated here Anſ as to this point of hearing its not nor can any ſutuable pertinent or equivalent Scripture to this effect for the con<g ref="char:EOLhyphen"/>trary be adduced.</item>
+               <item>XXV. It may be objected this is a ſtrengthning of the common adverſary, this I deny ſince on either hand many are wreſtling againſt ſuch oppoſitions.</item>
+               <item>XXVI. Does not this clearly introduce a Explicite Church Covenant and render all Scripturally called Miniſters yea Miniſtry, and all odious contemtible yea uſeleſs to make Presbyteries to be included in &amp; depend upon the people and ſo we shall have a well ordered Church.</item>
+               <pb n="8" facs="tcp:175441:5"/>
+               <item> XXVII. If that condition of the Covenant shaliceaſe defence of authority for as to diſcrepancy of perſons we do not now diſcurſe all the terms thereof mutually shall fall to the ground, its true it being mutual did inferre a like obliga<g ref="char:EOLhyphen"/>tions but yet the thing intrinſickly ſo conſidered doth ſtill oblige the choiſeſt acts of the ſoul.</item>
+               <item>XXVIII. It may be objected where is the life of religion to this ne<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> anſwer as fear it meaſured according to our temper for as much of the vigour of godl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſs haſt been ſeen a<g ref="char:EOLhyphen"/>mongſt ſome of them as many others.</item>
+               <item>XXIX. Laſtly if this shall be the fruit of our Chriſtian com<g ref="char:EOLhyphen"/>merce at meeting me thinks it, it shall declare an un<g ref="char:EOLhyphen"/>ſavoury ſpirit unedifying, take us of the way of our An<g ref="char:EOLhyphen"/>ceſſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs and withal, do freely invite yea as having the mind of God to invite all Kinds to Repentance, and thoſe who have decayed in any meaſure to cry for reſtoratione this with Sympathie, Calvin uſed tho ſay to Luther should he call me a Divel, yet he is a Godly Man.</item>
+            </list>
+         </div>
+         <trailer>FIN.</trailer>
+      </body>
+   </text>
+</TEI>
